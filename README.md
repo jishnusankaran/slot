@@ -153,7 +153,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Screenshot (4)](https://github.com/jishnusankaran/slot/assets/144979369/f9f4e9e0-724a-460b-99f0-d088646e0a6d)
+![alt text](screenshot(1).png)
 
 
 ## RESULT
