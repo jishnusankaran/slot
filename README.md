@@ -93,74 +93,68 @@ Execute the program using runserver command.
              </tr>   
             </table>
 
-            <table border="2" cellspacing="5" cellpading="5" width="600" height="50">
+            <table border="2" cellspacing="5" cellpadding="5" width="600" height="50">
                 <br>
                 <br>
             
                 <tr>
-                    <th bgcolor="#00FFFF">S.NO</th>
-                    <th bgcolor="#00FFFF">Subject Code</th>
-                    <th bgcolor="#00FFFF"><center>Subject Name</center></th>
-                    
+                    <th>S.NO</th>
+                    <th>Subject Code</th>
+                    <th><center>Subject Name</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>1.</center></th>
-                    <th bgcolor="red">19AI304</th>
-                    <th bgcolor="#FFB6C1"<center>Fundamentals of C Programming</center></th>
-                    
+                    <th><center>1.</center></th>
+                    <th>19AI304</th>
+                    <th><center>Fundamentals of C Programming</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>2.</center></th>
-                    <th bgcolor="red">19AI403</th>
-                    <th bgcolor="#FFB6C1"<center>Introduction To Data Science</center></th>
-                    
+                    <th><center>2.</center></th>
+                    <th>19AI403</th>
+                    <th><center>Introduction To Data Science</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>3.</center></th>
-                    <th bgcolor="red">19AI414</th>
-                    <th bgcolor="#FFB6C1"<center>Fundamentals of Web Application Development</center></th>
-                    
+                    <th><center>3.</center></th>
+                    <th>19AI414</th>
+                    <th><center>Fundamentals of Web Application Development</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>4.</center></th>
-                    <th bgcolor="red">19CS405</th>
-                    <th bgcolor="#FFB6C1"<center>Operating System</center></th>
-                    
+                    <th><center>4.</center></th>
+                    <th>19CS405</th>
+                    <th><center>Operating System</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>5.</center></th>
-                    <th bgcolor="red">19EN101</th>
-                    <th bgcolor="#FFB6C1"<center>Communcative English</center></th>
-                    
+                    <th><center>5.</center></th>
+                    <th>19EN101</th>
+                    <th><center>Communicative English</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>6.</center></th>
-                    <th bgcolor="red">19MC802</th>
-                    <th bgcolor="#FFB6C1"<center</center>Enviromental Science</th>
-                    
+                    <th><center>6.</center></th>
+                    <th>19MC802</th>
+                    <th><center>Environmental Science</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>7.</center></th>
-                    <th bgcolor="red">19PH214</th>
-                    <th bgcolor="#FFB6C1"<center>Physics For Quantum Computing </center></th>
-                    
+                    <th><center>7.</center></th>
+                    <th>19PH214</th>
+                    <th><center>Physics For Quantum Computing</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>8.</center></th>
-                    <th bgcolor="red">22HS102</th>
-                    <th bgcolor="#FFB6C1"<center>Tamil and technology </center></th>
+                    <th><center>8.</center></th>
+                    <th>22HS102</th>
+                    <th><center>Tamil and technology</center></th>
                 </tr>
                 <tr>
-                    <th bgcolor="#00FFFF"><center>9.</center></th>
-                    <th bgcolor="red">ECA-M</th>
-                    <th bgcolor="#FFB6C1"<center>Mentor Meet  </center></th>
+                    <th><center>9.</center></th>
+                    <th>ECA-M</th>
+                    <th><center>Mentor Meet</center></th>
                 </tr>
-                </table>
+            </table>
+            
     </body>
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-15 033032.png>)
+![Screenshot (4)](https://github.com/jishnusankaran/slot/assets/144979369/f9f4e9e0-724a-460b-99f0-d088646e0a6d)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
